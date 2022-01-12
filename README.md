@@ -41,8 +41,8 @@ https://docs.docker.com/get-docker/
 ⚠ Il n'est pas nécessaire d'installer Docker desktop. 
 
 ## Hello World!
-Suivez les instructions ci-dessous pour créer le conteneur "Hello world" de Docker: https://hub.docker.com/_/hello-world
-``docker run hello-world``
+Suivez les instructions ci-dessous pour créer le conteneur "Hello world" de Docker: https://hub.docker.com/_/hello-world  
+``docker run hello-world``  
 Si un message d'erreur apparait, vérifiez que vous avez bien installé Docker et Docker-compose.
 ## Docker-compose
 Suivez les instructions [getting started with docker compose](https://docs.docker.com/compose/gettingstarted/) pour créer une stack contenant Python Flask (serveur HTTP) et Redis (Base de données)
