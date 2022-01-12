@@ -14,7 +14,7 @@
 **Docker** est une plateforme de conteneurs lancée en 2013 ayant largement contribué à la démocratisation de la conteneurisation. Elle permet de créer facilement des conteneurs et des applications basées sur les conteneurs. Il en existe d’autres, mais celle-ci est la plus utilisée.
 
 ### Conteneur ?
-Un contenur est une sorte de boîte dans laquelle une version minimisée d'un OS est installée, permettant l'execution d'un programme ou d'un service spécifique *(ex: Apache, MySQL, PHP, etc...)*
+Un contenur est une sorte de boîte dans laquelle une version minimisée d'un OS est installée, permettant l'execution d'un programme ou d'un service spécifique sur n'importe quel OS*(ex: Apache, MySQL, PHP, etc...)*
 
 Source: https://www.docker.com/resources/what-container
 
