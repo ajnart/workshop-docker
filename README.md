@@ -37,8 +37,8 @@ Compose créer un *réseau virtuel* qui permet aux services de communiquer simpl
 ## Installation de docker et docker-compose
 Suivez les instructions ci-dessous pour installer Docker et Docker-compose sur votre machine:  
 https://docs.docker.com/get-docker/  
-⚠ Si vous êtes sur Linux, faites bien les étapes [post-install](https://docs.docker.com/engine/install/linux-postinstall/) avant de continuer. Cela permettra de lancer Docker sans avoir à entrer votre mot de passe root avec ``sudo`` ou ``doas``.
-⚠ Il n'est pas nécessaire d'installer Docker desktop. 
+⚠ Si vous êtes sur Linux, faites bien les étapes [post-install](https://docs.docker.com/engine/install/linux-postinstall/) avant de continuer. Cela permettra de lancer Docker sans avoir à entrer votre mot de passe root avec ``sudo`` ou ``doas``.  
+⚠ Il n'est pas nécessaire d'installer Docker desktop.  
 
 ## Hello World!
 Suivez les instructions ci-dessous pour créer le conteneur "Hello world" de Docker: https://hub.docker.com/_/hello-world  
