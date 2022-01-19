@@ -48,7 +48,7 @@ Si un message d'erreur apparait, vérifiez que vous avez bien installé Docker e
 Suivez les instructions [getting started with docker compose](https://docs.docker.com/compose/gettingstarted/) pour créer une stack contenant Python Flask (serveur HTTP) et Redis (Base de données)
 
 ensuite, vous devriez pourvoir le lancer avec ``docker-compose up -d``
-(-d : démarrer les services en arrière plan, *detached mode*)
+(-d : démarrer les services en arrière plan, *detached mode*)  
 ⚠ Notez que le code est déjà présent dans ./app
 
 # Conclusion
